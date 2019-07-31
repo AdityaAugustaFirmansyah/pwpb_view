@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ConsoleGame</string>
+    <string name="content_text">The PS4’s launch day is finally upon us, and for the first time in the history of game consoles we actually have a very good idea of the hardware that’s actually inside the box. Priced at $400 and released on November 15, the PS4 is a very exciting proposition indeed: Not only is it cheaper than the Xbox One, but it has better internal hardware and it’s released a week earlier.
+
+The story below is out of date, as Sony has changed a few things since this story was first written. For a complete and more-up-to-date breakdown of the PS4’s hardware specs, see our PS4 vs. Xbox One hardware spec comparison. We also have some hands-on impressions of the PS4, if you’re more interested in the interface and games.</string>
+    <string name="content_specs_display">After one press conference where Sony didn’t show us the console at all, and then a blurry 30-second video to keep us on the edge of our seats, Sony has finally shown us what the PS4 actually looks like. As you can see above, the PS4 actually looks a lot a rhomboid version of the Xbox One, or perhaps an evil Wii. We don’t have the exact dimensions yet, but it looked pretty big on stage at E3. Our guess is that both the Xbox One and PS4 will look good under your TV, at roughly the same width as your Blu-ray player.
+
+Inside the PS4 is, essentially, a specialized mid-range gaming PC. There’s an 8-core AMD Jaguar/Kabini x86-64 CPU, a Radeon 7870-derived GPU with 18 compute units (vs. Xbox One’s 12 CUs), and 8GB of unified GDDR5 RAM. The only standout feature here is the RAM, which provides both the CPU and GPU with 176GB/sec of unified (shared) memory. As always, though, it’s unfair to directly compare a console’s hardware with the PC equivalent — in reality, once developers write code that specifically targets the PS4’s hardware, we should see performance and visuals that compare to your top-end gaming </string>
+    <string name="content_specs_size">5.6 x 2.7 x 0.2 ~ 0.3 inches 143.8 x 69.5 x 7.3 ~ 8.5 mm</string>
+    <string name="content_specs_battery">The one area that we still don’t know a lot about is the PS4’s software. We know that there will be an extensive social interface, allowing you to capture, share, and stream videos of your gameplay directly from the PS4, but beyond that Sony hasn’t really shown us anything.
+
+Connectivity-wise, the PS4 will not regularly connect to the internet to check on your game licenses, and you will be able to use your console offline for as long as you want. This is in stark contrast to the Xbox One’s 24-hour check-in requirement. If you can’t afford an internet connection, or you regularly take your console offline (to your cabin in the woods), the PS4 is for you.
+
+Like the Xbox One and SmartGlass, the PS4 will also allow you to use your iOS or Android smartphone or tablet as a second screen. Exact details on what you can do with the second screen are unknown, but it’s probably the same deal as the Xbox one: Inventory management, interacting with your friends, mini-games, and so on.
+
+</string>
+    <string name="dummy_photos">6 Photos</string>
+    <string name="dummy_value">$7230</string>
+    <string name="stok">Stok hanya 10 buah</string>
+    <string name="spesifikasi">Spesifikasi</string>
+    <string name="display">Hardware</string>
+    <string name="size">Size</string>
+    <string name="battery">Software and connectivity</string>
+    <string name="dijual_oleh">Dijual oleh</string>
+    <string name="aye_aye_aye">aye aye aye</string>
+    <string name="beli">Beli</string>
+</resources>
